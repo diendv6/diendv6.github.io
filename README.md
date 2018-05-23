@@ -3,8 +3,8 @@
 # React-native note
 
 ## UI design:
-https://react-native-training.github.io/react-native-elements/\n
-https://nativebase.io/\n
+https://react-native-training.github.io/react-native-elements/  
+https://nativebase.io/  
 https://oblador.github.io/react-native-vector-icons/
 
 ## All
